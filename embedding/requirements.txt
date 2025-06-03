@@ -1,0 +1,6 @@
+uvicorn
+pydantic
+Fastapi
+sentence_transformers
+transformers==4.48.0
+torch
