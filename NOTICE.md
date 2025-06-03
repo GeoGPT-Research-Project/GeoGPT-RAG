@@ -1,2 +1,2 @@
-- Mistral-7B-Instruct-v0.1 is licensed under the Apache License 2.0, Copyright (c)  2023 Mistral AI.
-- BGE-M3 is licensed under the MIT LICENSE, Copyright (c) 2022 staoxiao.
+- Mistral-7B-Instruct-v0.1 is licensed under the [Apache License 2.0](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md), Copyright (c)  2023 Mistral AI.
+- BGE-M3 is licensed under the [MIT LICENSE](https://github.com/FlagOpen/FlagEmbedding/blob/master/LICENSE), Copyright (c) 2022 staoxiao.
