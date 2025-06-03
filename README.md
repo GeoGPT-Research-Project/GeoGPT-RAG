@@ -12,7 +12,6 @@
  <a href="https://modelscope.cn/profile/GeoGPT" target="_blank">
       <img alt="ModelScope" src="https://img.shields.io/badge/🤖%20ModelScope-GeoGPT%20-536af5"/>
  </a>
- <br>
  <a href="https://www.linkedin.com/company/zhejianglab/posts/?feedView=all&viewAsMember=true" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/💬%20LinkedIn-GeoGPT-brightgreen?logo=Linkedin&logoColor=white"/>  
  </a>
