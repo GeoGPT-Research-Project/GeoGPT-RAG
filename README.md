@@ -170,7 +170,7 @@ kb_server.drop_collection()
 Please note the following dependencies:
 - GeoEmbedding is trained on the foundation of [Mistral-7B-Instruct-v0.1](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1), which is also licensed under the [Apache License 2.0](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md). It is your responsibility to ensure that your use of GeoEmbedding adheres to the terms of both the GeoEmbedding model and its upstream dependency, [Mistral-7B-Instruct-v0.1](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1).
 
-- GeoReranker is trained on the foundation of [BGE-M3](https://huggingface.co/BAAI/bge-m3), which is also licensed under the MIT License. It is your responsibility to ensure that your use of GeoReranker adheres to the terms of both the GeoReranker model and its upstream dependency, [BGE-M3](https://huggingface.co/BAAI/bge-m3).
+- GeoReranker is trained on the foundation of [BGE-M3](https://huggingface.co/BAAI/bge-m3), which is also licensed under the [MIT License](https://github.com/FlagOpen/FlagEmbedding/blob/master/LICENSE). It is your responsibility to ensure that your use of GeoReranker adheres to the terms of both the GeoReranker model and its upstream dependency, [BGE-M3](https://huggingface.co/BAAI/bge-m3).
 
 **Primary intended use**：The primary use of this repo is to support geoscience research, providing geoscientists with innovative tools and capabilities enhanced by large language models. It is specifically designed for non-commercial research and educational purposes.
 
