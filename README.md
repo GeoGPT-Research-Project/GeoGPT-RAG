@@ -15,6 +15,9 @@
  <a href="https://www.linkedin.com/company/zhejianglab/posts/?feedView=all&viewAsMember=true" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/💬%20LinkedIn-GeoGPT-brightgreen?logo=Linkedin&logoColor=white"/>  
  </a>
+ <a href="https://github.com/GeoGPT-Research-Project/GeoGPT-RAG/blob/master/GeoGPT_RAG_Technical_Report.pdf">
+     <img alt="Paper URL" src="https://img.shields.io/badge/📄Paper Link-RAG-blue">
+ </a>
 </div>
 
 ## 1. Introduction
