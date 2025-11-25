@@ -16,8 +16,8 @@
       <img alt="LinkedIn" src="https://img.shields.io/badge/💬%20LinkedIn-GeoGPT-brightgreen?logo=Linkedin&logoColor=white"/>  
  </a>
  <br>
- <a href="https://github.com/GeoGPT-Research-Project/GeoGPT-RAG/blob/master/GeoGPT_RAG_Technical_Report.pdf">
-     <img alt="Paper URL" src="https://img.shields.io/badge/📄Paper Link-GeoRAG-blue">
+ <a href="https://arxiv.org/abs/2509.09686">
+     <img alt="Paper URL" src="https://img.shields.io/badge/📄Paper Link-arXiv-blue">
  </a>
  <a href="https://huggingface.co/datasets/GeoGPT-Research-Project/GeoRAG-QA" target="_blank">
      <img alt="Hugging Face" src="https://img.shields.io/badge/📊%20Test Set-GeoRAG%20-ffc107"/>
@@ -36,7 +36,7 @@ The [GeoEmbedding](https://huggingface.co/GeoGPT-Research-Project/GeoEmbedding) 
 
 The [GeoReranker](https://huggingface.co/GeoGPT-Research-Project/GeoReranker) model complements this process by re-evaluating and ranking retrieved results. Unlike the GeoEmbedding model, which focuses on vector similarity, the GeoReranker model takes a query and a candidate passage as input and directly estimates their semantic relevance. It outputs a relevance score——typically normalized to a [0, 1] range via a sigmoid function——enabling more precise document ranking based on contextual alignment.
 
-Together, the GeoGPT-RAG system, its two core models, and [GeoRAG-QA](https://huggingface.co/datasets/GeoGPT-Research-Project/GeoRAG-QA), a benchmark test set for geoscience information retrieval, have been open-sourced, empowering the GeoGPT project to better support the global geoscience research community. For more details, please refer to the [technical report](https://github.com/GeoGPT-Research-Project/GeoGPT-RAG/blob/master/GeoGPT_RAG_Technical_Report.pdf).
+Together, the GeoGPT-RAG system, its two core models, and [GeoRAG-QA](https://huggingface.co/datasets/GeoGPT-Research-Project/GeoRAG-QA), a benchmark test set for geoscience information retrieval, have been open-sourced, empowering the GeoGPT project to better support the global geoscience research community. For more details, please refer to the [technical report](https://arxiv.org/abs/2509.09686).
 
 ## 2. System Information
 
